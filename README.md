@@ -1,8 +1,9 @@
 # ANNapproximator
 
+Version 0.1
 A program that takes in an equation as input
 
-How to use:
+#How to use:
 
 Requires the 'python' programming language and the 'NumPy' library. I recommend downloading 'enthought canopy' which includes the library and also has a nice interface for editing the code.
 One you create a copy on your computer, you can edit the designated variables. Those are denoted by comments.
@@ -12,10 +13,10 @@ After the entire program finishes running, the output will be written in the 'ou
 
 node_number,weight,threshold,
 
-The variables that are editable (without leading to errors) are:
+#The variables that are editable (without leading to errors) are:
 - Number of nodes in hidden layer
 - Equation to approximate
 - Backpropagation Training Step
 
-Version 0.1
+
 
